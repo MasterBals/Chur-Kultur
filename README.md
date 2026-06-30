@@ -1,4 +1,4 @@
-﻿# Chur Kultur
+# Chur Kultur
 
 Home Assistant Integration fuer gefilterte Kultur-Agenda-Eintraege von Chur Kultur.
 
