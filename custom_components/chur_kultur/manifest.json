@@ -1,0 +1,15 @@
+﻿{
+    "domain":  "chur_kultur",
+    "name":  "Chur Kultur",
+    "codeowners":  [
+                       "@MasterBals"
+                   ],
+    "config_flow":  true,
+    "documentation":  "https://github.com/MasterBals/Chur-Kultur",
+    "iot_class":  "cloud_polling",
+    "issue_tracker":  "https://github.com/MasterBals/Chur-Kultur/issues",
+    "requirements":  [
+
+                     ],
+    "version":  "1.0.0"
+}
